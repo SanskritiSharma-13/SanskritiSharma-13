@@ -17,15 +17,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskritisharma-13&show_icons=true&locale=en&layout=compact" alt="sanskritisharma-13" /></p>
 
+<br> <!-- Moves the GIF slightly up -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
 
-<br><br><br> <!-- Adds some space between the images -->
+<br><br><br> <!-- Adds space between images -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 <br><br> <!-- Adds space before the last GIF -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 
 
