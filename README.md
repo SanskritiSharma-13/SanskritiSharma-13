@@ -16,8 +16,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskritisharma-13&show_icons=true&locale=en&layout=compact" alt="sanskritisharma-13" /></p>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 
 
