@@ -19,4 +19,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskritisharma-13&show_icons=true&locale=en" alt="sanskritisharma-13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritisharma-13&" alt="sanskritisharma-13" /></p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanskriti+Sharma;A+Passionate+Developer;Tech+Enthusiast+from+India" alt="Typing SVG" />
+
+<style>
+  .glow {
+    animation: glow 1.5s infinite alternate;
+  }
+
+  @keyframes glow {
+    0% { filter: drop-shadow(0 0 5px cyan); }
+    100% { filter: drop-shadow(0 0 20px cyan); }
+  }
+</style>
+
+<p align="center">
+  <img class="glow" src="YOUR_PROFILE_IMAGE_URL" width="150" height="150" alt="profile">
+</p>
