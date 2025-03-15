@@ -22,12 +22,12 @@
 
 
 <!-- First GIF - Right Aligned -->
-
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
-
+<br clear="both"><br>
 
 <!-- Second GIF - Right Aligned -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
 
 
