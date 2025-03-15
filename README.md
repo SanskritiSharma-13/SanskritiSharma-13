@@ -18,6 +18,11 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="sanskritisharma-13" />
-  <img src="YOUR-MIRRORED-GIF-URL" width="200" align="right">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="150">
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="150">
 </p>
