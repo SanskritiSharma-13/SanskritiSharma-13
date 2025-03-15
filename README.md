@@ -20,17 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritisharma-13&" alt="sanskritisharma-13" /></p>
 
-<style>
-  .glow {
-    animation: glow 1.5s infinite alternate;
-  }
-
-  @keyframes glow {
-    0% { filter: drop-shadow(0 0 5px cyan); }
-    100% { filter: drop-shadow(0 0 20px cyan); }
-  }
-</style>
-
 <p align="center">
-  <img class="glow" src="YOUR_PROFILE_IMAGE_URL" width="150" height="150" alt="profile">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="GitHub Animation" />
 </p>
+
