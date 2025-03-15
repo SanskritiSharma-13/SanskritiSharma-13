@@ -21,6 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritisharma-13&" alt="sanskritisharma-13" /></p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="GitHub Animation" />
+  <img src="https://media.giphy.com/media/3o7TKPdUkkbVFbN3sA/giphy.gif" width="500">
 </p>
+
 
