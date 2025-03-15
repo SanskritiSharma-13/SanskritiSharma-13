@@ -22,17 +22,12 @@
 
 
 
-<!-- Clear Float -->
-<br clear="both">
+
 
 <!-- Second GIF - Right Aligned -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 
 
-<!-- Clear Float -->
-<br clear="both">
 
-<!-- Animated Snake Contribution Graph -->
-<img src="https://raw.githubusercontent.com/sanskritisharma-13/sanskritisharma-13/output/snake.svg" alt="Snake animation" />
 
