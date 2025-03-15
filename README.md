@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritisharma-13&" alt="sanskritisharma-13" /></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPdUkkbVFbN3sA/giphy.gif" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritisharma-13&" alt="sanskritisharma-13" />
+  <img src="YOUR-MIRRORED-GIF-URL" width="200" align="right">
 </p>
-
 
